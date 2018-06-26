@@ -18,3 +18,7 @@ Learning goals:
 - CWL as standard
 - Platforms supporting CWL
 - How does CWL benefit the researcher - from batch to CWL
+
+Other learning resources:
+  Official CWL User Guide: http://www.commonwl.org/user_guide/
+  CWL Support options: https://www.commonwl.org/#Support
